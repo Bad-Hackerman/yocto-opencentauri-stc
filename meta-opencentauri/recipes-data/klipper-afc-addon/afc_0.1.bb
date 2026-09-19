@@ -12,7 +12,7 @@ SRC_URI = " \
     file://canvas.cfg \
 "
 
-SRCREV = "61d43626a167b40824638ea4cd82ce884541e35e"
+SRCREV = "be5f42e38ea7e91dd9f0308bd968e08ec5d1ba15"
 
 S = "${WORKDIR}/git"
 
